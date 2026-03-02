@@ -1,0 +1,28 @@
+{
+  "positions": [
+    {
+      "code": "513050",
+      "name": "易方达中证海外互联 ETF",
+      "holding_amount": 50000.00,
+      "total_profit": 5000.00,
+      "holding_profit": 3000.00
+    },
+    {
+      "code": "159915",
+      "name": "易方达创业板 ETF",
+      "holding_amount": 30000.00,
+      "total_profit": -2000.00,
+      "holding_profit": -1500.00
+    },
+    {
+      "code": "510300",
+      "name": "华泰柏瑞沪深 300ETF",
+      "holding_amount": 40000.00,
+      "total_profit": 1000.00,
+      "holding_profit": 800.00
+    }
+  ],
+  "total_holding_amount": 120000.00,
+  "total_profit": 4000.00,
+  "total_holding_profit": 2300.00
+}
